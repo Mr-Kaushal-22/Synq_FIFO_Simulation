@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Study/Core_Electronics/Projects/SYNQ_FIFO/SYNQ_FIFO.srcs/sources_1/new/SYNQ_FIFO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SYNQ_FIFO
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Study/Core_Electronics/Projects/SYNQ_FIFO/SYNQ_FIFO.srcs/sim_1/new/SYNQ_FIFO_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SYNQ_FIFO_tb
